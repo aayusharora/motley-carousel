@@ -1,0 +1,19 @@
+{
+  "name": "motley-carousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elements.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayusharora/motley-carousel.git"
+  },
+  "author": "“aayusharora” <“aayush113002@gmail.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayusharora/motley-carousel/issues"
+  },
+  "homepage": "https://github.com/aayusharora/motley-carousel#readme"
+}
